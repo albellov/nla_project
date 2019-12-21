@@ -1,7 +1,7 @@
 # Skoltech NLA project 2019: 
 ## Feature Ranking via Eigenvector Centrality
 
-Team members:
+Team 35 members:
 - Aleksandr Belov [Aleksandr.Belov@skoltech.ru]
 - Ivan Baybuza [Ivan.Baybuza@skoltech.ru]
 - Mariia Kopylova [Mariia.Kopylova@skoltech.ru]
